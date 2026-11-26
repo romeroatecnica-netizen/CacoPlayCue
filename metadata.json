@@ -1,0 +1,6 @@
+{
+  "name": "CacoPlayCue — Social Deduction Game: Thief, Police & Alibis",
+  "description": "100% client-side multiplayer social deduction game with secret Thief, Police & Citizen roles, SVG floorplan clues, timed alibi interrogations, streaks, and WhatsApp case challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

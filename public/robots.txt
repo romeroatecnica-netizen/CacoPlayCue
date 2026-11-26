@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cacoplaycue.bastelar.com/sitemap.xml
